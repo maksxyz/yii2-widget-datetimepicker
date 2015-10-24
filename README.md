@@ -1,6 +1,6 @@
 yii2-widget-datetimepicker
 ==========================
-test
+new test
 [![Latest Stable Version](https://poser.pugx.org/kartik-v/yii2-widget-datetimepicker/v/stable)](https://packagist.org/packages/kartik-v/yii2-widget-datetimepicker)
 [![License](https://poser.pugx.org/kartik-v/yii2-widget-datetimepicker/license)](https://packagist.org/packages/kartik-v/yii2-widget-datetimepicker)
 [![Total Downloads](https://poser.pugx.org/kartik-v/yii2-widget-datetimepicker/downloads)](https://packagist.org/packages/kartik-v/yii2-widget-datetimepicker)
